@@ -1,5 +1,3 @@
-// Palindrome Checker : JavaScript Algorithms and Data Structures Projects
-
 // Question: 
 // Return true if the given string is a palindrome. Otherwise, return false.
 // A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
@@ -32,6 +30,8 @@
 // .toLowerCase()
 // convert all letters to lowercase (optional)
 
-//.replace(/[^a-z0-9]/gi,'')
+// .replace(/[^a-z0-9]/gi,'')
 // remove all non-alphanumeric characters
 
+//Palindrome Checker-Free Code Camp-JavaScript Algorithms and Data Structures Projects:
+link: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker
