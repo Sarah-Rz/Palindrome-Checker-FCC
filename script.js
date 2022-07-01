@@ -27,11 +27,11 @@
     }
  }
 
-    //Description: 
+//Description: 
 
-    // .toLowerCase()
-    // convert all letters to lowercase (optional)
+// .toLowerCase()
+// convert all letters to lowercase (optional)
 
-    //.replace(/[^a-z0-9]/gi,'')
-    // remove all non-alphanumeric characters
+//.replace(/[^a-z0-9]/gi,'')
+// remove all non-alphanumeric characters
 
