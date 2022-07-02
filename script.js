@@ -10,10 +10,8 @@
     .toLowerCase()
     .replace(/[^a-z0-9]/gi,'')
     .split("");
-    
-    let forwardLetters = letters
+     let forwardLetters = letters
     .join("");
-    
     let reverseLetters = letters
     .reverse()
     .join("");
